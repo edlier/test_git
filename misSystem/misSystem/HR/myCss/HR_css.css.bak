@@ -1,0 +1,30 @@
+﻿#out_div, .out_panel {
+    position:absolute;
+    top:170px;
+    width:900px;
+    left:353px;
+    font-size:16pt;
+    line-height:24pt;
+}
+h3 {
+    margin:0 0 10px;
+    padding:0;
+}
+.label-1{
+    display:inline-block;    
+}
+.label-2 {
+    margin: 0 5px;    
+    display:inline;
+    font-size:12pt;
+}
+/*input[type=text] {
+    font-size:14pt;
+    margin:0;
+}*/
+.label-error{
+    margin-left:5em;
+    font-size:12pt;
+    color:red;
+}
+    

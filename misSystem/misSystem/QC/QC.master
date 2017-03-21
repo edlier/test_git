@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/site.Master" AutoEventWireup="true" CodeBehind="QC.master.cs" Inherits="misSystem.QC.QC" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="Lp300-Tm350">
+        <%--<asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>--%>
+        <asp:Button ID="btn_fillIQC" runat="server" Text="IQC - Fill" CssClass="W150H30-georgia20px" OnClick="btn_fillIQC_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="btn_fillFQC" runat="server" Text="FQC - Fill" CssClass="W150H30-georgia20px" OnClick="btn_fillFQC_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="btn_fillIPQC" runat="server" Text="IPQC - Fill" CssClass="W150H30-georgia20px" OnClick="btn_fillIPQC_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />
+<%--        <asp:Button ID="btn_fillOPQC" runat="server" Text="OPQC - Fill" CssClass="W150H30-georgia20px" OnClick="btn_fillOPQC_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />--%>
+
+        <asp:Button ID="btn_fQCList" runat="server" Text="FQC List" CssClass="W150H30-georgia20px" OnClick="btn_fQCList_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="btn_IQCList" runat="server" Text="IQC List" CssClass="W150H30-georgia20px" OnClick="btn_IQCList_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="btn_IPQCList" runat="server" Text="IPQC List" CssClass="W150H30-georgia20px" OnClick="btn_IPQCList_Click" />&nbsp;&nbsp;&nbsp;
+        <br />
+        <br />
+        <br />
+    </div>
+    <asp:ContentPlaceHolder ID="ContentQC" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

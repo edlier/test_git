@@ -1,0 +1,341 @@
+C:\Users\User\Desktop\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\User\Desktop\misSystem\misSystem\bin\misSystem.dll
+C:\Users\User\Desktop\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\User\Desktop\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\User\Desktop\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\bin\misSystem.dll
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\User\Desktop\CodeFile\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\misSystem.dll.config
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\misSystem.dll
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\misSystem.pdb
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\MSSQL_CON.dll
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\Newtonsoft.Json.dll
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\bin\MSSQL_CON.pdb
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\obj\Debug\misSystem.dll
+D:\使用者\Desktop\JOB\MIS\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160829\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160829_Cheryl\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160830\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160831\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160905\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160906\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160908\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160909\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160910\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160912\misSystem\misSystem\obj\Debug\misSystem.pdb
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\misSystem.dll.config
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\misSystem.dll
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\misSystem.pdb
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\MSSQL_CON.dll
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\Newtonsoft.Json.dll
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\20160912\misSystem\misSystem\bin\MSSQL_CON.pdb
+D:\使用者\Desktop\20160912\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\20160912\misSystem\misSystem\obj\Debug\misSystem.dll
+D:\使用者\Desktop\20160912\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160914\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\20160914_v1.005\misSystem\misSystem\obj\Debug\misSystem.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\misSystem.dll.config
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\misSystem.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\misSystem.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\MSSQL_CON.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\Newtonsoft.Json.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\bin\MSSQL_CON.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\obj\Debug\misSystem.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cherylnieh\Desktop\20161117\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\obj\Debug\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\itextsharp.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\obj\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\obj\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\測試區\HR\misSystem\misSystem\obj\Debug\misSystem.pdb

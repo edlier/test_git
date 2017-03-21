@@ -1,0 +1,23 @@
+﻿#login_tittle{
+    font-size:40px;
+    font-weight:bold;
+
+}
+
+#centerlizeRecord{
+    position:absolute;
+    left:50%;
+    margin-left:-300px;
+    margin-top:80px;
+}
+
+.georgia20px{
+    font-size:20px;
+    font-family:Georgia;
+}
+
+.btn{
+    margin-top:20px;
+    font-size:20px;
+    font-family:Georgia;
+}

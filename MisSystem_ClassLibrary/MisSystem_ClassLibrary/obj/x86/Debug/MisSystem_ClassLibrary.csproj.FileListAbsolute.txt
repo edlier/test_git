@@ -1,0 +1,4 @@
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\x86\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\x86\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\x86\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\x86\Debug\MisSystem_ClassLibrary.pdb

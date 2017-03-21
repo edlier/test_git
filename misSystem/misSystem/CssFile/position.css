@@ -1,0 +1,62 @@
+.Lp550-Tm325-georgia18px{
+    position:absolute;
+    margin-top:-325px;
+    margin-left:550px;
+    font-family: Georgia;
+    font-size:18px;    
+}
+.Lp900-Tm390-georgia18px{
+    position:absolute;
+    margin-top:-390px;
+    margin-left:900px;
+    font-family: Georgia;
+    font-size:18px;  
+}
+.Lp1080-Tm390{
+    position:absolute;
+    margin-top:-390px;
+    margin-left:1080px;
+}
+
+.Lp300-Tm350{
+    position:absolute;
+    margin-left:300px;
+    margin-top:-350px;
+}
+.Lp300-Tm0{
+    position:absolute;
+    margin-left:300px;
+    margin-top:-200px;
+}
+/*.Lp500-Tm350{
+    position:absolute;
+    margin-left:200px;
+    margin-top:-350px;
+}*/
+.Lp300-Tm500{
+    position:absolute;
+    margin-left:300px;
+    margin-top:-500px;
+}
+/*--------Position Difference--------*/
+
+.Lp400-Tm450-colorSet{
+    margin-left:400px;
+    margin-top:-450px;
+
+    background-color: #ABFFFF;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.L0-T280{
+    margin-left:0px;
+    margin-top:280px;
+}
+
+
+
+.gridStyle {
+    word-break: break-all;
+    word-wrap: break-word;
+}

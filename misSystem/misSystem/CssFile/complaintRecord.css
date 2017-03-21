@@ -1,0 +1,10 @@
+﻿#centerlizeRecord{
+    position:absolute;
+    left:50%;
+    margin-left:-300px;
+    margin-top:80px;
+}
+#wrd_inf{
+    font-size:18px;
+    font-weight:bold;
+}

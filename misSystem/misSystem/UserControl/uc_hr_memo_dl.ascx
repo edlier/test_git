@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="uc_hr_memo_dl.ascx.cs" Inherits="misSystem.UserControl.uc_memo_dl" %>
+Status: <asp:DropDownList runat="server" ID="memo_dl" Font-Size="14"></asp:DropDownList>                    

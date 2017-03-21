@@ -1,0 +1,67 @@
+C:\Users\cocohuang\Desktop\ConnectSAP\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\ConnectSAP\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\ConnectSAP\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\ConnectSAP\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\testCnnSAPQC_M\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\testCnnSAPQC_M\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\testCnnSAPQC_M\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\testCnnSAPQC_M\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\testCnnSAPQC_M\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+D:\使用者\Desktop\JOB\MIS\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+D:\使用者\Desktop\JOB\MIS\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+D:\使用者\Desktop\JOB\MIS\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\JOB\MIS\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+D:\使用者\Desktop\JOB\MIS\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160830\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160830\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\20160830\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\20160830\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+D:\使用者\Desktop\20160912\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+D:\使用者\Desktop\20160912\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+D:\使用者\Desktop\20160912\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\20160912\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+D:\使用者\Desktop\20160912\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\MSSQL_CON\obj\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\HR\MSSQL_CON\bin\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\HR\MSSQL_CON\bin\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\MSSQL_CON\obj\Debug\MSSQL_CON.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\HR\MSSQL_CON\obj\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\測試區\HR\MSSQL_CON\obj\Debug\MSSQL_CON.pdb

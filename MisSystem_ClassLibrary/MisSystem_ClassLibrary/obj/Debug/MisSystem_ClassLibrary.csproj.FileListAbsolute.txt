@@ -1,0 +1,133 @@
+C:\Users\User\Desktop\CodeFile\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\User\Desktop\CodeFile\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\User\Desktop\CodeFile\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\User\Desktop\CodeFile\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\User\Desktop\CodeFile\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\JOB\MIS\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\JOB\MIS\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\JOB\MIS\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\JOB\MIS\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\JOB\MIS\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160829\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160829\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160829\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160829\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160829\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160830\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160830\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160830\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160830\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160905\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160905\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160905\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160905\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160905\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160906\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160906\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160906\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160906\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160906\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160908\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160908\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160908\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160908\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160908\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\coding File\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160909\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160909\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160909\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160909\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160909\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160910\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160910\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160910\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160910\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160910\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+D:\使用者\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\20160912\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160914\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160914\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\20160914\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\20160914\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\20160914\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+D:\使用者\Desktop\[v1.005.01]___20160914\20160914_v1.005\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\[v1.006.001]_20160929\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cherylnieh\Desktop\20161117\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cherylnieh\Desktop\20161117\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cherylnieh\Desktop\20161117\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cherylnieh\Desktop\20161117\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cherylnieh\Desktop\20161117\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cherylnieh\Desktop\20161117\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.002]_20161118\[v1.006.002]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.003]_20161128 [等刪除]\[v1.006.003]_20161118\[v1.006.003]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.04]_20161128 [等刪除]\[v1.006.04]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\[v1.006.05]_20161118\[v1.006.04]_20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\[v1.006.05]_20161130 [等刪除]\20161118\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\測試區\HR\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\HR\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\MisSystem_ClassLibrary\MisSystem_ClassLibrary\bin\Debug\AjaxControlToolkit.dll
+C:\Users\cocohuang\Desktop\測試區\HR\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\測試區\HR\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\測試區\HR\MisSystem_ClassLibrary\MisSystem_ClassLibrary\obj\Debug\MisSystem_ClassLibrary.csprojResolveAssemblyReference.cache

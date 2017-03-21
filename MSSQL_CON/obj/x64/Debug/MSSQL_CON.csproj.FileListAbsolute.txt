@@ -1,0 +1,4 @@
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\bin\x64\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\bin\x64\Debug\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\obj\x64\Debug\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\coding File\MSSQL_CON\obj\x64\Debug\MSSQL_CON.pdb

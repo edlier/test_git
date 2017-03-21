@@ -1,0 +1,21 @@
+﻿#title{
+    font-weight:bold;
+    font-size:28px;
+    color:blue;
+}
+.title{
+    font-weight:bold;
+    font-size:28px;
+    color:blue;
+}
+#middle{
+    position:absolute;
+    left:300px;
+    top:170px;
+}
+#nothing {
+    position:absolute;
+    margin-left:50%;
+    margin-top:-30%;
+    left:-30%;
+}

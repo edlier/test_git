@@ -1,0 +1,3 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="uc_all_employee.ascx.cs" Inherits="misSystem.UserControl.uc_all_employee" %>
+WorkerNum: <asp:TextBox ID="search_workNum_text" runat="server" CssClass="label-2" Width="3em" style="text-align:center;" onblur="__doPostBack(this.name, '')" OnTextChanged="search_workNum_text_TextChanged"></asp:TextBox><br />
+<asp:DropDownList ID="all_employee_dl" runat="server" Font-Size="14pt" OnSelectedIndexChanged="all_employee_dl_SelectedIndexChanged" AutoPostBack="true" style="text-align:center;"></asp:DropDownList>

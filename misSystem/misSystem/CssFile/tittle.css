@@ -1,0 +1,50 @@
+﻿.Lp550_Tm5_gradient40px{
+	position: absolute;
+	margin-top:-400px;
+	margin-left:550px;
+	font-family: Georgia;
+	font-size:40px;
+	background: -webkit-linear-gradient(top,#fd0b58 0,#a32b68 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	}
+Lp300_Tm450_gradient40px{
+	position: inherit;
+	margin-top:-450px;
+	margin-left:300px;
+	font-family: Georgia;
+	font-size:40px;
+	background: -webkit-linear-gradient(top,#fd0b58 0,#a32b68 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	}
+
+.HR_PublicTittle{
+    margin-top:-140px;
+	margin-left:300px;
+	font-family: Georgia;
+	font-size:40px;
+	background: -webkit-linear-gradient(top,#fd0b58 0,#a32b68 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.Lp300_Tm140_gradient40px2{
+	/*position: inherit;*/
+	margin-top:-140px;
+	margin-left:300px;
+	font-family: Georgia;
+	font-size:40px;
+	background: -webkit-linear-gradient(top,#fd0b58 0,#a32b68 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	}
+
+.gradient{
+	font-family: Georgia;
+	font-size:70px;
+	background: -webkit-linear-gradient(top,#fd0b58 0,#a32b68 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}

@@ -1,0 +1,216 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="site.master.cs" Inherits="misSystem.site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="CssFile/styles.css?v1.009.01" rel="stylesheet" />
+    <link href="picture/icon.jpg" rel="icon" type="image/jpg" />
+    <link href="CssFile/btn.css?v1.009.01" rel="stylesheet" />
+    <link href="CssFile/position.css?v1.009.01" rel="stylesheet" />
+    <link href="CssFile/tittle.css?v1.009.01" rel="stylesheet" />
+    <link href="CssFile/tb.css?v1.009.01" rel="stylesheet" />
+    <link href="CssFile/color.css?v1.009.01" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <%--<img src="~/picture/mainMIS.jpg" class="mainJPG"/>--%>
+        <a href='<%= ResolveClientUrl("Default.aspx") %>'>
+            <img src="<%=ResolveClientUrl("picture/mainMIS.jpg")%>" width="250px" /></a>
+        <div id='cssmenu'>
+            <ul>
+                <%----------------------------------------%>
+                <%----------PD&E----------------------%>
+                <%----------------------------------------%>
+<%--                <li class='active has-sub'><a href='<%= ResolveClientUrl("PE/PE_ItemList.aspx") %>'><span>PD&E</span></a>
+                    <ul>
+                        <li class='has-sub'><a href='#'><span>Project Control</span></a>
+                            <ul>
+                                <li><a href='<%= ResolveClientUrl("PE/PE_ItemList.aspx") %>'><span>List</span></a></li>
+                                <li class='last'><a href='<%= ResolveClientUrl("PE/PE_AddaNewItem.aspx") %>'><span>Add Project</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>--%>
+                <%----------------------------------------%>
+                <%----------Service---------------------%>
+                <%----------------------------------------%>
+<%--                <li class='active has-sub'><a href='<%= ResolveClientUrl("Service/Status.aspx") %>'><span>Service</span></a>
+                    <ul>
+
+                        <li class='has-sub'><a href='<%= ResolveClientUrl("Service/ServiceLog.aspx")%>'><span>ServiceLog</span></a></li>
+                        <li class='has-sub'><a href='<%= ResolveClientUrl("Service/Status.aspx") %>'><span>Status</span></a></li>
+                        <li class='has-sub'><a href='<%= ResolveClientUrl("Service/ALLlog.aspx") %>'><span>AllLog</span></a></li>
+
+                    </ul>
+                </li>--%>
+
+                <%----------------------------------------%>
+                <%----------HR---------%>
+                <%----------------------------------------%>
+
+                <li class='active has-sub'><a href='#'><span>ATT</span></a>
+                    <ul>
+                        <% if (Session["userID"] != null)
+                           {%>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/HR_checkReport_day.aspx") %>'>日報表</a></li>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/HR_checkReport_month.aspx") %>'>月報表</a></li>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/HR_checkReport_personal.aspx") %>'>單一員工報表</a></li>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/HR_checkReport_memo.aspx") %>'>請假記錄</a></li>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/HR_QuicklyImportDT.aspx") %>'>快速輸入員工假</a></li>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/HR_specialPerson.aspx") %>'>特殊員工設定</a></li>
+
+
+                        <%} %>
+  
+
+
+                    </ul>
+                </li>
+                                <li class='active has-sub'><a href='#'><span>PER</span></a>
+                    <ul>
+                        <% if (Session["userID"] != null)
+                           {%>
+                                <li class="last"><a href='<%= ResolveClientUrl("HR/personnel/EmployeeList.aspx") %>'>員工檔</a></li>
+
+                        <%} %>
+
+                    </ul>
+                </li>
+
+
+
+
+                <%---------------------------%>
+                <%----------QC-------------%>
+                <%---------------------------%>
+<%--                <li class='active has-sub'><a href='<%= ResolveClientUrl("QC/MainQC.aspx") %>'><span>QC</span></a>
+                    <ul>
+                        <li class="last"><a href='<%= ResolveClientUrl("QC/cnnSAPList.aspx") %>'>IQC Fill</a></li>
+                        <li class="last"><a href='<%= ResolveClientUrl("QC/FQC_Fill.aspx") %>'>FQC Fill</a></li>
+                        <li class="last"><a href='<%= ResolveClientUrl("QC/IQC_List.aspx") %>'>IQC List</a></li>
+                        <li class="last"><a href='<%= ResolveClientUrl("QC/FQC_List.aspx") %>'>FQC List</a></li>--%>
+                        <%--<li class="last"><a href=<%= ResolveClientUrl("QC/QC_sampling.aspx")%>>Sampling</a></li>--%>
+                        <%--<li class="last"><a href=<%= ResolveClientUrl("QC/QC_index.aspx") %>><span>QC</span></a></li>--%>
+<%--                    </ul>
+                </li>--%>
+
+                <%---------------------------%>
+                <%----------PCMC---------%>
+                <%---------------------------%>
+               <%-- <li class='active has-sub'><a href=''><span>PCMC</span></a>
+                    <ul>
+                        <li class='has-sub'><a href='#'><span>wwwww</span></a>
+                            <ul>
+                                <li><a href=""><span>FORM</span></a></li>
+                                <li class='last'><a href='#'><span>aa</span></a></li>
+                                <li class='last'><a href='#'><span>aaa</span></a></li>
+                            </ul>
+                        </li>
+                        <li class='has-sub'><a href='#'><span>aa</span></a>
+                            <ul>
+                                <li><a href=""><span>aaaaa</span></a></li>
+                                <li class='last'><a href='#'><span>aa</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>--%>
+
+                <%----------------------------------------%>
+                <%----------Production---------------%>
+                <%----------------------------------------%>
+                <%--<li class='active has-sub'><a href=''><span>Production</span></a>
+                    <ul>
+                        <li class='has-sub'><a href='#'><span>wwwww</span></a>
+                            <ul>
+                                <li><a href=""><span>FORM</span></a></li>
+                                <li class='last'><a href='#'><span>aa</span></a></li>
+                                <li class='last'><a href='#'><span>aaa</span></a></li>
+                            </ul>
+                        </li>
+                        <li class='has-sub'><a href='#'><span>aa</span></a>
+                            <ul>
+                                <li><a href=""><span>aaaaa</span></a></li>
+                                <li class='last'><a href='#'><span>aa</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </li>--%>
+
+                <%----------------------------------------%>
+                <%----------Regulatory---------------%>
+                <%----------------------------------------%>
+<%--                <li class='active has-sub'><a href='regulatory/regulatory_main.aspx'><span>Document Control</span></a>
+                    <ul>
+                        <li class='has-sub'><a href='#'><span>Fill form</span></a>
+                            <ul>
+                                <li><a href="<%= ResolveClientUrl("regulatory/regulatory_form_DCR.aspx") %>"><span>DCR FORM</span></a></li>
+                                <li class='last'><a href="<%= ResolveClientUrl("regulatory/regulatory_form_raar.aspx") %>"><span>會辦單</span></a></li>
+                                <li class='last'><a href=""><span>工程變更通知單</span></a></li>
+                            </ul>
+                        </li>
+                        <li class='has-sub'><a href="<%= ResolveClientUrl("flow/regulatory_flow_DCR.aspx") %>"><span>表單流程</span></a>
+                            <ul>
+                                <li><a href="regulatory/flow/regulatory_flow_DCR.aspx"><span>DCR</span></a></li>
+                                <li class='last'><a href='#'><span>ECR</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </li>--%>
+
+                <%----------------------------------------%>
+                <%----------Check----------------------%>
+                <%----------------------------------------%>
+<%--                <li class='active has-sub'><a href='#'><span>Check</span></a>
+                    <ul>
+                        <li class='has-sub'><a href='#'><span>Product 1</span></a>
+                            <ul>
+                                <li><a href="<%= ResolveClientUrl("check/unconfirmed_form.aspx") %>"><span>Unconfirmed</span></a></li>
+                                <li class='last'><a href="<%= ResolveClientUrl("check/overview.aspx") %>"><span>OverView</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>--%>
+
+
+                <%----------------------------------------%>
+                <%----------MIS-------------------------%>
+                <%----------------------------------------%>
+                <% 
+                    if (Session["auDep11"] != null)
+                    {%>
+
+                <%--<li class='active has-sub'><a href='MIS/MIS_Main.aspx'><span>MIS</span></a>--%>
+
+                <li class='active has-sub'><a href='<%= ResolveClientUrl("MIS/User/UserList.aspx") %>'><span>MIS</span></a>
+                    <ul>
+                        <li class='has-sub'><a href='#'><span>User</span></a>
+                            <ul>
+                                <li class='last'><a href='<%= ResolveClientUrl("MIS/User/UserList.aspx") %>'><span>User List</span></a></li>
+                                <li class='last'><a href='<%= ResolveClientUrl("MIS/User/AddNewUser.aspx") %>'><span>Add New</span></a></li>
+                                <li class='last'><a href='#'><span>Login Log</span></a></li>
+                            </ul>
+                        </li>
+                        <li class='has-sub'><a href='#'><span>Manager</span></a>
+                            <ul>
+                                <li class='last'><a href='<%= ResolveClientUrl("MIS/manager/AddNewManager.aspx") %>'><span>Add Manager</span></a></li>
+                                <li class='last'><a href='<%= ResolveClientUrl("MIS/manager/ManagerList.aspx") %>'><span>Manager List</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <%} %>
+                <li class='last'><a href='<%= ResolveClientUrl("account/logout.aspx")%>'><span>Logout</span></a></li>
+            </ul>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

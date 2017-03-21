@@ -1,0 +1,11 @@
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\misSystem.dll.config
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\misSystem.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\misSystem.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MisSystem_ClassLibrary.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MSSQL_CON.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\Newtonsoft.Json.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MisSystem_ClassLibrary.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\bin\MSSQL_CON.pdb
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\obj\x86\Debug\misSystem.csprojResolveAssemblyReference.cache
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\obj\x86\Debug\misSystem.dll
+C:\Users\cocohuang\Desktop\coding File\misSystem\misSystem\obj\x86\Debug\misSystem.pdb
